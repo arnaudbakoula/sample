@@ -16,7 +16,7 @@ assignees: ''
 * [indicate what you know]
 
 # Acceptance criteria
-```
+```gherkin
 Given [some context]
 When [certain actions are performed]
 Then [some behavior is observed]
